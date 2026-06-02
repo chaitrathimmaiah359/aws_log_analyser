@@ -1,0 +1,10 @@
+2026-05-20 INFO Job Started
+
+2026-05-20 ERROR Failed to pull image
+
+2026-05-20 Exception:
+CannotPullContainerError
+
+2026-05-20 Timeout while contacting ECR
+
+2026-05-20 Job Failed
